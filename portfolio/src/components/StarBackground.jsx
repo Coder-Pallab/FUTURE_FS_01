@@ -37,7 +37,7 @@ const StarBackground = () => {
     };
 
     const generateMeteors = () =>{
-        const numberOfMeteors = 5;
+        const numberOfMeteors = 4;
 
         const newMeteors = [];
 
@@ -70,7 +70,7 @@ const StarBackground = () => {
 
         {meteors.map((meteor) => (
             <div key={meteor.id} className='meteor animate-meteor' style={{
-                width: meteor.size * 30 + "px",
+                width: meteor.size * 20 + "px",
                 height: meteor.size * 2 + "px",
                 left: meteor.x + "%",
                 top: meteor.y + "%",
