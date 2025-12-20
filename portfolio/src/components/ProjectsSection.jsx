@@ -8,8 +8,8 @@ const projects = [
         description: "Aaahar is your trusted food delivery service, bringing fresh, hygienic, and delicious meals straight to your doorstep. We focus on quality ingredients, quick delivery, and home-style taste to make every meal satisfying and convenient for you.",
         image: "/projects/aaahar-food-delivery.png",
         tags: ["React", "Tailwind CSS", "Node Js", "Express Js", "MongoDB", "Json Web Token"],
-        url: "#",
-        code: "#",
+        url: "https://aaahar.vercel.app",
+        code: "https://github.com/Coder-Pallab/Aaahar-Food-Delivery-App",
     },
 
     {
@@ -19,7 +19,7 @@ const projects = [
         image: "/projects/ai-student-mentor.png",
         tags: ["React", "Tailwind CSS", "Node Js", "Express Js", "MongoDB", "Json Web Token", "Generative AI", "Gemini API"],
         url: "#",
-        code: "#",
+        code: "https://github.com/deepmoina2005/Gen-AI-Student-Mentor",
     },
 
     {
@@ -28,8 +28,8 @@ const projects = [
         description: "Our Authentication System ensures secure, reliable, and seamless access to digital platforms. By using modern security techniques, it protects user data, prevents unauthorized access, and delivers a smooth login experience you can trust.",
         image: "/projects/authentication-system.png",
         tags: ["React", "Tailwind CSS", "Node Js", "Express Js", "MongoDB", "Json Web Token", "Brevo SMTP", "NodeMailer"],
-        url: "#",
-        code: "#",
+        url: "https://authentication-system-static.onrender.com",
+        code: "https://github.com/Coder-Pallab/Authentication-System",
     },
 
     {
@@ -38,8 +38,8 @@ const projects = [
         description: "Our Background Removal tool uses AI to instantly remove backgrounds from images with precision and clarity. Perfect for product photos, profiles, and designs, it saves time while delivering professional-quality results in just one click.",
         image: "/projects/background-removal-app.png",
         tags: ["React", "Tailwind CSS", "Node Js", "Express Js", "MongoDB", "Clerk", "ClipDrop API"],
-        url: "#",
-        code: "#",
+        url: "https://background-removal-app-sigma.vercel.app",
+        code: "https://github.com/Coder-Pallab/Background-Removal-App",
     },
 
     {
@@ -48,8 +48,8 @@ const projects = [
         description: "Brahmaputra Real Estate is committed to helping you find the perfect property with trust and transparency. From residential homes to commercial spaces, we offer reliable real estate solutions that combine local expertise with customer-focused service.",
         image: "/projects/brahmaputra-RE.png",
         tags: ["React", "Tailwind CSS"],
-        url: "#",
-        code: "#",
+        url: "https://brahmaputra-real-estate.netlify.app",
+        code: "https://github.com/Coder-Pallab/The-Brahmaputra-Real-Estate",
     },
 
     {
@@ -58,8 +58,8 @@ const projects = [
         description: "This portfolio showcases my early projects, skills, and learning journey as a developer. It reflects my growth, experimentation, and foundation in web development, highlighting the work that shaped my technical skills.",
         image: "/projects/pallab-portfolio2025.png",
         tags: ["React", "Tailwind CSS", "Web3Forms"],
-        url: "#",
-        code: "#",
+        url: "https://pallab-portfolio-updated.vercel.app",
+        code: "https://github.com/Coder-Pallab/Updated-Portfolio-Website-2025",
     },
 ]
 const ProjectsSection = () => {
